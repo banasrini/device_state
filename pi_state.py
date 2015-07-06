@@ -1,6 +1,6 @@
 import sys
 import json
-from Pubnub import Pubnub
+from pubnub import Pubnub
 
 publish_key = 'demo'
 subscribe_key ='demo'
